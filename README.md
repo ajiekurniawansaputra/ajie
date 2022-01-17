@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ajiekurniawansaputra
+- 👀 I’m interested in Writing Codes
+- 🌱 I’m currently learning Machine Learning
+- 📫 Reach me at AjieKurniawanSaputra@gmail.com 
